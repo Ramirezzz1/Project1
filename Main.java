@@ -17,10 +17,16 @@ public class Main {
     // Function to check if the move is valid
     static boolean isValidMove(int x, int y, int[][]board){
         // Check if the move is within the board
+        return false;
+        // Check if the move is within the board
     }
 
     // Function to solve the knight tour problem
     static boolean solveKnightTour(int[][]board,int x, int y, int moveCount){
+        // Check if the move is valid
+        // Check if the move is the last move
+        // Check if the move is not the last move
+        return false;
         // Check if the move is valid
         // Check if the move is the last move
         // Check if the move is not the last move
